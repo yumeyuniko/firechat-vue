@@ -6,4 +6,4 @@
 ### Logout
 
 
-<img src="./logout.gif" width=80%>
+<img src="./logout.gif" width=50%>
